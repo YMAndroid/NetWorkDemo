@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+  <button bindtap="getNetInfo">用户注册</button>
+
+  <text>
+    注册信息： 
+  </text>
+  <text>{{str}}</text>
+</view>
